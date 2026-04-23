@@ -1,3 +1,4 @@
+# create the map() function in user_difined
 """it use the single litreble """
 lis=[1,5,4,6,7,9]
 def pr(x):
